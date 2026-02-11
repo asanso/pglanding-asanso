@@ -21,6 +21,11 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Papers
 
+### [Endomorphisms for Faster Cryptography on Elliptic Curves of Moderate CM Discriminants](https://eprint.iacr.org/2024/1985)
+- **Authors:** Dimitri Koshelev, Antonio Sanso
+- **Published in:** CIFRIS25 ACTA
+- **Year:** 2025
+  
 #### [Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field](https://eprint.iacr.org/2021/1152.pdf)
 - **Authors:** Simon Masson, Antonio Sanso, Zhenfei Zhang 
 - **Published in:** Designs, Codes and Cryptography
