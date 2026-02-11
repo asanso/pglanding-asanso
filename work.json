@@ -8,8 +8,8 @@
   {
     "title": "Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
     "tags": ["Elliptic Curves", "BLS12-381", "Paper"],
-    "url": "https://www.springerprofessional.de/en/bandersnatch-a-fast-elliptic-curve-built-over-the-bls12-381-scal/27642142",
-    "date": "2024-01-01"
+    "url": "https://eprint.iacr.org/2021/1152",
+    "date": "2024-09-14"
   },
   {
     "title": "Families of prime-order endomorphism-equipped embedded curves on pairing-friendly curves",
