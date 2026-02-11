@@ -1,7 +1,7 @@
 [
   {
     "title": "EIP-2537: Precompile for BLS12-381 curve operations",
-    "tags": ["EIP", "BLS12-381", "Precompile"],
+    "tags": ["EIP", "BLS12-381", "Precompile","Elliptic Curves"],
     "url": "https://eips.ethereum.org/EIPS/eip-2537",
     "date": ""
   },
