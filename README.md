@@ -59,6 +59,9 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Blog Posts
 
+#### [Falcon as an Ethereum Transaction Signature: The Good, the Bad, and the Gnarly](https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512)
+- **Date:** January, 2025
+
 #### [The return of Torus Based Cryptography: Whisk and Curdleproof in the target group](https://ethresear.ch/t/the-return-of-torus-based-cryptography-whisk-and-curdleproof-in-the-target-group/16678)
 - **Date:** September, 2023
 
