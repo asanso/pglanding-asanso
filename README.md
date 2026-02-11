@@ -21,11 +21,15 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Papers
 
+### [Small-field hash-based SNARGs are less sound than conjectured](https://eprint.iacr.org/2025/2197)
+- **Authors:** Giacomo Fenzi, Antonio Sanso
+- **Published in:** eprint
+- **Year:** 2025
+
 ### [Graeffe-Based Attacks on Poseidon and NTT Lower Bounds](https://eprint.iacr.org/2025/1916)
 - **Authors:** Ziyu Zhao, Antonio Sanso, Giuseppe Vitto, Jintai Din
 - **Published in:** eprint
 - **Year:** 2025
-  
 
 ### [Endomorphisms for Faster Cryptography on Elliptic Curves of Moderate CM Discriminants](https://eprint.iacr.org/2024/1985)
 - **Authors:** Dimitri Koshelev, Antonio Sanso
