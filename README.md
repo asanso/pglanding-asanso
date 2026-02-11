@@ -59,6 +59,9 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Blog Posts
 
+#### [The road to Post-Quantum Ethereum transaction is paved with Account Abstraction (AA)](https://ethresear.ch/t/the-road-to-post-quantum-ethereum-transaction-is-paved-with-account-abstraction-aa/21783)
+- **Date:** February, 2025
+
 #### [Falcon as an Ethereum Transaction Signature: The Good, the Bad, and the Gnarly](https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512)
 - **Date:** January, 2025
 
