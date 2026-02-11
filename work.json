@@ -3,7 +3,7 @@
     "title": "EIP-2537: Precompile for BLS12-381 curve operations",
     "tags": ["EIP", "BLS12-381", "Precompile","Elliptic Curves"],
     "url": "https://eips.ethereum.org/EIPS/eip-2537",
-    "date": ""
+    "date": "2025-05-07"
   },
   {
     "title": "Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
