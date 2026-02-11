@@ -1,0 +1,74 @@
+[
+  {
+    "title": "EIP-2537: Precompile for BLS12-381 curve operations",
+    "tags": ["EIP", "BLS12-381", "Precompile"],
+    "url": "https://eips.ethereum.org/EIPS/eip-2537",
+    "date": ""
+  },
+  {
+    "title": "Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
+    "tags": ["Elliptic Curves", "BLS12-381", "Paper"],
+    "url": "https://eprint.iacr.org/2021/1152.pdf",
+    "date": "2024-01-01"
+  },
+  {
+    "title": "Families of prime-order endomorphism-equipped embedded curves on pairing-friendly curves",
+    "tags": ["Elliptic Curves", "Endomorphisms", "Pairings", "Paper"],
+    "url": "https://eprint.iacr.org/2023/1662.pdf",
+    "date": "2024-01-01"
+  },
+  {
+    "title": "Towards a Quantum-resistant Weak Verifiable Delay Function",
+    "tags": ["Post-Quantum", "VDF", "Paper"],
+    "url": "https://eprint.iacr.org/2023/1197.pdf",
+    "date": "2023-01-01"
+  },
+  {
+    "title": "Analysis of MinRoot",
+    "tags": ["Cryptanalysis", "Paper"],
+    "url": "https://inria.hal.science/hal-04320126/file/minrootanalysis2023.pdf",
+    "date": "2023-01-01"
+  },
+  {
+    "title": "The return of Torus Based Cryptography: Whisk and Curdleproof in the target group",
+    "tags": ["Torus-Based Cryptography", "Whisk", "Curdleproof", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/the-return-of-torus-based-cryptography-whisk-and-curdleproof-in-the-target-group/16678",
+    "date": "2023-09-01"
+  },
+  {
+    "title": "Towards practical post quantum stealth addresses",
+    "tags": ["Post-Quantum", "Stealth Addresses", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/towards-practical-post-quantum-stealth-addresses/15437",
+    "date": "2023-04-01"
+  },
+  {
+    "title": "Fast G2 subgroup check in BN254",
+    "tags": ["BN254", "Pairings", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/fast-mathbb-g-2-subgroup-check-in-bn254/13974",
+    "date": "2022-10-01"
+  },
+  {
+    "title": "Towards practical post quantum Single Secret Leader Election (SSLE) - Part 1",
+    "tags": ["Post-Quantum", "SSLE", "Blog Post"],
+    "url": "https://crypto.ethereum.org/blog/pq-ssle",
+    "date": "2022-08-30"
+  },
+  {
+    "title": "The ECFFT algorithm (without elliptic curve and isogenies!)",
+    "tags": ["FFT", "Cryptography", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/the-ec-fft-algorithm-without-elliptic-curve-and-isogenies/11346",
+    "date": "2021-11-01"
+  },
+  {
+    "title": "Secured no. 1 Protecting the Ethereum consensus-layer",
+    "tags": ["Consensus", "Security", "Blog Post"],
+    "url": "https://blog.ethereum.org/2021/09/09/secured-no-1",
+    "date": "2021-09-09"
+  },
+  {
+    "title": "Introducing Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
+    "tags": ["Elliptic Curves", "BLS12-381", "Bandersnatch", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/introducing-bandersnatch-a-fast-elliptic-curve-built-over-the-bls12-381-scalar-field/9957",
+    "date": "2021-06-01"
+  }
+]
