@@ -62,6 +62,10 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 #### [Ethereum Validator Key Management via DDH-Based Exponent Verifiable Random Functions (eVRF)](https://ethresear.ch/t/ethereum-validator-key-management-via-ddh-based-exponent-verifiable-random-functions-evrf/22948)
 - **Date:** August, 2025
 
+#### [CVE-2025-30147 - The curious case of subgroup check on Besu](https://blog.ethereum.org/2025/05/07/the-curious-case)
+- **Date:** May, 2025
+
+
 #### [The road to Post-Quantum Ethereum transaction is paved with Account Abstraction (AA)](https://ethresear.ch/t/the-road-to-post-quantum-ethereum-transaction-is-paved-with-account-abstraction-aa/21783)
 - **Date:** February, 2025
 
