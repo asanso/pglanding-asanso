@@ -59,6 +59,9 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Blog Posts
 
+#### [When Lists Go Super Saiyan: A Numerical Example Above the Elias Bound](https://ethresear.ch/t/when-lists-go-super-saiyan-a-numerical-example-above-the-elias-bound/23533)
+- **Date:** November, 2025
+
 #### [Ethereum Validator Key Management via DDH-Based Exponent Verifiable Random Functions (eVRF)](https://ethresear.ch/t/ethereum-validator-key-management-via-ddh-based-exponent-verifiable-random-functions-evrf/22948)
 - **Date:** August, 2025
 
