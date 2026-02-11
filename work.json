@@ -1,9 +1,27 @@
 [
   {
     "title": "EIP-2537: Precompile for BLS12-381 curve operations",
-    "tags": ["EIP", "BLS12-381", "Precompile","Elliptic Curves"],
+    "tags": ["EIP", "BLS12-381", "Precompile", "Elliptic Curves"],
     "url": "https://eips.ethereum.org/EIPS/eip-2537",
     "date": "2025-05-07"
+  },
+  {
+    "title": "Small-field hash-based SNARGs are less sound than conjectured",
+    "tags": ["SNARGs", "Hash-Based", "Soundness", "Paper", "ePrint"],
+    "url": "https://eprint.iacr.org/2025/2197",
+    "date": ""
+  },
+  {
+    "title": "Graeffe-Based Attacks on Poseidon and NTT Lower Bounds",
+    "tags": ["Poseidon", "Cryptanalysis", "NTT", "Paper", "ePrint"],
+    "url": "https://eprint.iacr.org/2025/1916",
+    "date": "2025-10-17"
+  },
+  {
+    "title": "Endomorphisms for Faster Cryptography on Elliptic Curves of Moderate CM Discriminants",
+    "tags": ["Elliptic Curves", "Endomorphisms", "CM Discriminants", "Paper", "ePrint"],
+    "url": "https://eprint.iacr.org/2024/1985",
+    "date": "2024-12-08"
   },
   {
     "title": "Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field",
@@ -28,6 +46,42 @@
     "tags": ["Cryptanalysis", "VDF", "Paper"],
     "url": "https://inria.hal.science/hal-04320126/file/minrootanalysis2023.pdf",
     "date": "2023-12-04"
+  },
+  {
+    "title": "When Lists Go Super Saiyan: A Numerical Example Above the Elias Bound",
+    "tags": ["Coding Theory", "List Decoding", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/when-lists-go-super-saiyan-a-numerical-example-above-the-elias-bound/23533",
+    "date": "2025-11-25"
+  },
+  {
+    "title": "Ethereum Validator Key Management via DDH-Based Exponent Verifiable Random Functions (eVRF)",
+    "tags": ["VRF", "eVRF", "Key Management", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/ethereum-validator-key-management-via-ddh-based-exponent-verifiable-random-functions-evrf/22948",
+    "date": "2025-08-21"
+  },
+  {
+    "title": "CVE-2025-30147 - The curious case of subgroup check on Besu",
+    "tags": ["Security", "CVE", "BN254", "Blog Post"],
+    "url": "https://blog.ethereum.org/2025/05/07/the-curious-case",
+    "date": "2025-05-07"
+  },
+  {
+    "title": "The road to Post-Quantum Ethereum transaction is paved with Account Abstraction (AA)",
+    "tags": ["Post-Quantum", "Account Abstraction", "Transactions", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/the-road-to-post-quantum-ethereum-transaction-is-paved-with-account-abstraction-aa/21783",
+    "date": "2025-02-18"
+  },
+  {
+    "title": "Falcon as an Ethereum Transaction Signature: The Good, the Bad, and the Gnarly",
+    "tags": ["Post-Quantum", "Falcon", "Transactions", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/falcon-as-an-ethereum-transaction-signature-the-good-the-bad-and-the-gnarly/21512",
+    "date": "2025-01-20"
+  },
+  {
+    "title": "So you wanna Post-Quantum Ethereum transaction signature",
+    "tags": ["Post-Quantum", "Signatures", "Transactions", "Ethresearch Post"],
+    "url": "https://ethresear.ch/t/so-you-wanna-post-quantum-ethereum-transaction-signature/21291",
+    "date": "2024-12-18"
   },
   {
     "title": "The return of Torus Based Cryptography: Whisk and Curdleproof in the target group",
